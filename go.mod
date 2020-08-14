@@ -3,7 +3,7 @@ module github.com/AlvinRadeka/photo-journey
 go 1.14
 
 require (
-	github.com/labstack/echo/v4 v4.1.16 // indirect
+	github.com/labstack/echo/v4 v4.1.16
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de // indirect
